@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m an Information Technology student focused on machine learning and AI engineering with Python, and I’m also pursuing an interest in game engineering using C++.
+I’m an Informatics student focused on machine learning and AI engineering with Python, and I’m also pursuing an interest in game engineering using C++.
 
 
 ## 🌐 Socials:
