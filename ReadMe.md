@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m an Informatics student who passionate about Machine Learning and Data Science.<br>
+I’m an Informatics student who passionate about Data Science and Machine Learning.<br>
 
 
 ## 🌐 Socials:
