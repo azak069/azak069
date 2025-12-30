@@ -1,10 +1,5 @@
 # 💫 About Me:
-​Hi there, I'm Abdurahman Zaki D. 👋
-​I am a logical thinker focused on the technical depth of Informatics. I enjoy exploring how Data can be processed through Machine Learning to create impactful AI applications.
-​🔭 I’m currently diving deep into: Python for Data Science & ML Algorithms.
-​🧠 I’m interested in: Natural Language Processing and the philosophy of Artificial Intelligence.
-​⚡ Fun fact: I believe that every line of code is a step toward understanding human patterns.
-​🔧 Tools: Python, SQL, C++, Git
+​Hi there, I'm Abdurahman Zaki D. ​I am a logical thinker focused on the technical depth of Informatics. I enjoy exploring how Data can be processed through Machine Learning to create impactful AI applications. I’m currently diving deep into: Python for Data Science & ML Algorithms. I’m interested in: Natural Language Processing and the philosophy of Artificial Intelligence. Fun fact: I believe that every line of code is a step toward understanding human patterns. Tools: Python, SQL, C++, Git
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@azak0069) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdurahman-zaki-dawud-708072339) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:zakidawud69@gmail.com) 
