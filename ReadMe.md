@@ -1,5 +1,5 @@
 # 💫 About Me:
-​An Informatic Student who interested in Artificial Intelligence, Machine Learning, and Data Science.
+​An Informatics Student who interested in Artificial Intelligence, Machine Learning, and Data Science.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/azak0069) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdurahman-zaki-dawud-708072339) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:zakidawud69@gmail.com) 
